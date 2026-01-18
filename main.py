@@ -1,6 +1,6 @@
 from pathlib import Path
 
-def getAllLines(allCode):
+def getAllLines(allCode):  
     lines = allCode.split("\n")
     return lines
 
